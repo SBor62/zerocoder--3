@@ -5,4 +5,3 @@ def summa(a, b):
 
 def hello(name):
     print(f"Hello {name}")
-
